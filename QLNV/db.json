@@ -1,0 +1,714 @@
+{
+  "location": {
+    "provinces": [
+      {
+        "name": "Hà Nội",
+        "id": "1"
+      },
+      {
+        "name": "Thái Bình",
+        "id": "2"
+      },
+      {
+        "name": "Hải Phòng",
+        "id": "3"
+      },
+      {
+        "name": "Nam Định",
+        "id": "4"
+      },
+      {
+        "name": "Hải Dương",
+        "id": "5"
+      },
+      {
+        "name": "Quảng Ninh",
+        "id": "6"
+      },
+      {
+        "name": "Bắc Ninh",
+        "id": "7"
+      },
+      {
+        "name": "Bắc Giang",
+        "id": "8"
+      },
+      {
+        "name": "Hà Nam",
+        "id": "9"
+      },
+      {
+        "name": "Ninh Bình",
+        "id": "10"
+      }
+    ],
+    "districts": [
+      {
+        "name": "Đống Đa",
+        "id": "1"
+      },
+      {
+        "name": "Cầu Giấy",
+        "id": "2"
+      },
+      {
+        "name": "Tiền Hải",
+        "id": "3"
+      },
+      {
+        "name": "Kiến Xương",
+        "id": "4"
+      },
+      {
+        "name": "Hải Hậu",
+        "id": "5"
+      },
+      {
+        "name": "Giao Thủy",
+        "id": "6"
+      },
+      {
+        "name": "Kiến An",
+        "id": "7"
+      },
+      {
+        "name": "Lê Chân",
+        "id": "8"
+      },
+      {
+        "name": "Kim Thành",
+        "id": "9"
+      },
+      {
+        "name": "Quảng Yên",
+        "id": "10"
+      }
+    ],
+    "communes": [
+      {
+        "name": "a",
+        "id": "1"
+      },
+      {
+        "name": "b",
+        "id": "2"
+      },
+      {
+        "name": "c",
+        "id": "3"
+      },
+      {
+        "name": "d",
+        "id": "4"
+      },
+      {
+        "name": "e",
+        "id": "5"
+      },
+      {
+        "name": "f",
+        "id": "6"
+      },
+      {
+        "name": "g",
+        "id": "7"
+      },
+      {
+        "name": "h",
+        "id": "8"
+      },
+      {
+        "name": "i",
+        "id": "9"
+      },
+      {
+        "name": "k",
+        "id": "10"
+      }
+    ]
+  },
+  "otherFeature": {
+    "Team": [
+      {
+        "id": 1,
+        "name": "Back-End"
+      },
+      {
+        "id": 2,
+        "name": "Front-End"
+      },
+      {
+        "id": 3,
+        "name": "Design"
+      }
+    ],
+    "Position": [
+      {
+        "id": 1,
+        "name": "Thực tập sinh"
+      },
+      {
+        "id": 2,
+        "name": "Nhân viên"
+      },
+      {
+        "id": 3,
+        "name": "Kế toán"
+      }
+    ],
+    "Gender": [
+      {
+        "id": 1,
+        "gender": "Nam"
+      },
+      {
+        "id": 2,
+        "gender": "Nữ"
+      },
+      {
+        "id": 3,
+        "gender": "Khác"
+      }
+    ],
+    "DegreeField": [
+      {
+        "id": 1,
+        "fieldName": "Tin học"
+      },
+      {
+        "id": 2,
+        "fieldName": "Ngoại Ngữ"
+      },
+      {
+        "id": 3,
+        "fieldName": "Dịch vụ"
+      }
+    ],
+    "relationship": [
+      {
+        "id": 1,
+        "relationship": "Bố"
+      },
+      {
+        "id": 2,
+        "relationship": "Mẹ"
+      },
+      {
+        "id": 3,
+        "relationship": "Anh trai"
+      },
+      {
+        "id": 4,
+        "relationship": "Chị gái"
+      },
+      {
+        "id": 5,
+        "relationship": "Em"
+      }
+    ],
+    "placeIssue": [
+      {
+        "id": 1,
+        "place": "Cục Cảnh sát DKQL cư trú và DLQG về dân cư"
+      },
+      {
+        "id": 2,
+        "place": "Cục cảnh sát quản lý hành chính về trật tự xã hội"
+      }
+    ]
+  },
+  "listAddNewStaff": [
+    {
+      "fullName": "Phan Quốc A",
+      "code": "3003383",
+      "phone": "0329927424",
+      "email": "phana30@gmail.com",
+      "address": "Ha Nam Viet Nam",
+      "identityCode": "1234567890",
+      "placeIssue": {
+        "place": "Cục cảnh sát quản lý hành chính về trật tự xã hội"
+      },
+      "ethnic": "Kinh",
+      "religion": "Không",
+      "salary": "3w333",
+      "birthplace": "qq",
+      "district": {
+        "name": "Kiến Xương"
+      },
+      "province": {
+        "name": "Thái Bình"
+      },
+      "commune": {
+        "name": "a"
+      },
+      "gender": "Nam",
+      "position": "Thực tập sinh",
+      "team": "Back-End",
+      "birthday": "2000-02-02",
+      "dateIssue": "2023-02-08",
+      "image": "",
+      "listDiploma": [
+        {
+          "name": "Phan A",
+          "content": "hahhaa",
+          "date": "2023-02-05",
+          "field": {
+            "fieldName": "Ngoại Ngữ"
+          },
+          "place": "okdfsdfdd",
+          "id": "d31b26f4-4df3-4724-85e8-538b9e1728e0"
+        },
+        {
+          "name": "Phan B",
+          "content": "Công nghệ thông tin",
+          "date": "2023-02-12",
+          "field": {
+            "fieldName": "Tin học"
+          },
+          "place": "Trường đại học GTVT",
+          "id": "81d7b48c-18dd-44c3-80b6-5847693c903b"
+        }
+      ],
+      "listRelationship": [
+        {
+          "name": "Phan C",
+          "gender": "Nam",
+          "birthday": "2023-02-03",
+          "relationship": {
+            "relationship": "Mẹ"
+          },
+          "province": {
+            "name": "Hà Nội"
+          },
+          "district": {
+            "name": "Đống Đa"
+          },
+          "commune": {
+            "name": "a"
+          },
+          "address": "Ha Noi Viet Nam",
+          "id": "575aea14-e732-4356-9005-c059bea74838"
+        },
+        {
+          "name": "Phan D",
+          "gender": "Nam",
+          "birthday": "2023-02-04",
+          "relationship": {
+            "relationship": "Bố"
+          },
+          "province": {
+            "name": "Nam Định"
+          },
+          "district": {
+            "name": "Hải Hậu"
+          },
+          "commune": {
+            "name": "b"
+          },
+          "address": "Nam Dinh Viet Nam",
+          "id": "d989989d-6a4d-40a0-aa51-c94072f5d614"
+        },
+        {
+          "name": "Phan E",
+          "gender": "Nam",
+          "birthday": "2023-02-17",
+          "relationship": {
+            "relationship": "Bố"
+          },
+          "province": {
+            "name": "Hải Phòng"
+          },
+          "district": {
+            "name": "Lê Chân"
+          },
+          "commune": {
+            "name": "c"
+          },
+          "address": "Ha Nam Viet Nam",
+          "id": "7f70e9c8-1d6b-4fc6-8b1e-831d035b177e"
+        }
+      ],
+      "education": [
+        "Khóa học Kỹ năng giao tiếp, Unica (2014)"
+      ],
+      "experience": [
+        "[OCEANTECH] | TP. HCM, VIỆT NAM \n\nTrợ lý kế toán \n\nTháng 2/2016 – Tháng 1/2019 \n\nMua vật tư và thiết bị cho 3 bộ phận trong công ty, ghi nhận chính xác các giao dịch mua bán và giảm thiểu sự chênh lệch khi đối chiếu các khoản thu chi đến 35%. \nThực hiện báo cáo chi phí các quy trình, ghi lại và phân bổ các mục chi phí hợp lý. \nGửi yêu cầu hoàn trả chi phí phát sinh khi tổ chức du lịch, nghỉ mát và đảm bảo hoàn thành các bản khai nhận biên lai còn thiếu. ",
+        "UTC123"
+      ],
+      "generalIntroduction": [
+        " \"Tôi là một Nhà thiết kế đồ họa sáng tạo, nghệ thuật với tài năng tư duy vượt qua khuôn khổ và đưa ra những ý tưởng và thiết kế tối tân. Tôi tốt nghiệp thủ khoa ngành Thiết kế Đồ họa tại Đại học XYZ và sau đó tôi đã làm việc trong ngành thiết kế trong 2 năm qua. Tôi tự hào về việc cung cấp những sản phẩm xuất sắc cho tất cả các bên liên quan và nhận thấy tác động tích cực mà tôi tạo ra đối với các khách hàng và các doanh nghiệp.\""
+      ],
+      "careerGoals": [
+        "Tôi mong muốn có thể hoàn thành tốt công việc mà cấp trên giao phó, đạt được KPI và tạo dựng được mối quan hệ thân thiết, tương trợ lẫn nhau giữa các đồng nghiệp."
+      ],
+      "skill": [
+        "HTML/CSS",
+        "JAVASCRIPT",
+        "REACT JS",
+        "SQL123456"
+      ],
+      "hobby": [
+        "Chơi bóng đá",
+        "Chơi cầu lông",
+        ""
+      ],
+      "status": "Yêu cầu bổ sung",
+      "id": "5e3becc4-fcd0-468a-8dc5-043d6313f542",
+      "sendLeader": {
+        "name": "Phan K",
+        "date": "2023-02-03",
+        "position": "Thực tập sinh",
+        "content": "ok nha"
+      },
+      "tableData": {
+        "index": 0,
+        "id": "5e3becc4-fcd0-468a-8dc5-043d6313f542",
+        "uuid": "5d97d31d-f479-434c-8e4f-6ecd900bf32c"
+      },
+      "acceptInfo": {
+        "date": "2023-02-12"
+      },
+      "releaseRequest": {
+        "reason": "ok nha",
+        "date": "2023-02-12"
+      },
+      "additionalRequest": {
+        "content": "can them ly do"
+      }
+    },
+    {
+      "fullName": "Phan L",
+      "code": "3003383",
+      "phone": "0329927424",
+      "email": "phanl30@gmail.com",
+      "address": "Ha Nam Viet Nam",
+      "identityCode": "1234567890",
+      "placeIssue": {
+        "place": "Cục cảnh sát quản lý hành chính về trật tự xã hội"
+      },
+      "ethnic": "Kinh",
+      "religion": "Không",
+      "salary": "1111",
+      "birthplace": "An Nội Bình lục hà nam",
+      "district": {
+        "name": "Thái Bình"
+      },
+      "province": {
+        "name": "Tiền Hải"
+      },
+      "commune": {
+        "name": "a"
+      },
+      "gender": "Nam",
+      "position": "Thực tập sinh",
+      "team": "Back-End",
+      "birthday": "2000-02-17",
+      "dateIssue": "2023-02-04",
+      "image": "",
+      "listDiploma": [],
+      "listRelationship": [],
+      "education": [
+        ""
+      ],
+      "experience": [
+        ""
+      ],
+      "generalIntroduction": [
+        ""
+      ],
+      "careerGoals": [
+        ""
+      ],
+      "skill": [
+        ""
+      ],
+      "hobby": [
+        ""
+      ],
+      "status": "Từ chối",
+      "id": "b93ccff0-eeb3-409c-afc8-97a5fa669386",
+      "sendLeader": {
+        "name": "Phan S",
+        "date": "2023-02-03",
+        "position": "Nhân viên",
+        "content": "ok nha ban oi"
+      },
+      "tableData": {
+        "index": 1,
+        "id": "b93ccff0-eeb3-409c-afc8-97a5fa669386",
+        "uuid": "b2f3a6ba-074a-4a3b-9145-39f986d8ad21"
+      },
+      "acceptInfo": {
+        "date": "2023-02-05"
+      },
+      "releaseRequest": {
+        "reason": "Tôi chịu",
+        "date": "2020-02-26"
+      },
+      "refuseInfo": {
+        "content": "ok nha",
+        "date": "2023-02-12"
+      }
+    },
+    {
+      "fullName": "Phan U",
+      "code": "3003383",
+      "phone": "0329927424",
+      "email": "phanu@gmail.com",
+      "address": "Ha Nam Viet Nam",
+      "identityCode": "1234567890",
+      "placeIssue": {
+        "place": "Cục Cảnh sát DKQL cư trú và DLQG về dân cư"
+      },
+      "ethnic": "Kinh",
+      "religion": "Không",
+      "salary": "1111",
+      "birthplace": "An Nội Bình lục hà nam",
+      "district": {
+        "name": "Hà Nội"
+      },
+      "province": {
+        "name": "Cầu Giấy"
+      },
+      "commune": {
+        "name": "c"
+      },
+      "gender": "Nam",
+      "position": "Thực tập sinh",
+      "team": "Back-End",
+      "birthday": "2003-02-01",
+      "dateIssue": "2023-02-03",
+      "image": "/assets/images/illustrations/dreamer.svg",
+      "listDiploma": [],
+      "listRelationship": [],
+      "education": [
+        ""
+      ],
+      "experience": [
+        ""
+      ],
+      "generalIntroduction": [
+        ""
+      ],
+      "careerGoals": [
+        ""
+      ],
+      "skill": [
+        ""
+      ],
+      "hobby": [
+        ""
+      ],
+      "status": "Đã nộp lưu",
+      "id": "62d92af7-2fce-4d59-a7a8-83b2d9a3b1f9",
+      "sendLeader": {
+        "name": "Phan Y",
+        "date": "2023-02-04",
+        "position": "Thực tập sinh",
+        "content": "ok nha"
+      },
+      "tableData": {
+        "index": 2,
+        "id": "62d92af7-2fce-4d59-a7a8-83b2d9a3b1f9",
+        "uuid": "714b4e01-e454-40eb-bf4f-fb0460091cfa"
+      },
+      "acceptInfo": {
+        "date": "2023-02-05"
+      },
+      "releaseRequest": {
+        "reason": "ok nha",
+        "date": "2023-02-12"
+      },
+      "saveProfileInfo": {
+        "date": "2023-02-05",
+        "numberSave": "2"
+      }
+    },
+    {
+      "fullName": "Phan T",
+      "code": "3003383",
+      "phone": "0329927424",
+      "email": "phant@gmail.com",
+      "address": "Ha Nam Viet Nam",
+      "identityCode": "1234567890",
+      "placeIssue": {
+        "place": "Cục cảnh sát quản lý hành chính về trật tự xã hội"
+      },
+      "ethnic": "Kinh",
+      "religion": "Không",
+      "salary": "1111",
+      "birthplace": "An Nội Bình lục hà nam",
+      "district": {
+        "name": "Hà Nội"
+      },
+      "province": {
+        "name": "Đống Đa"
+      },
+      "commune": {
+        "name": "b"
+      },
+      "gender": "Nam",
+      "position": "Thực tập sinh",
+      "team": "Back-End",
+      "birthday": "2000-02-12",
+      "dateIssue": "2023-02-04",
+      "image": "/assets/images/illustrations/dreamer.svg",
+      "listDiploma": [
+        {
+          "name": "Bằng cử nhân2",
+          "content": "Công nghệ thông tin",
+          "date": "2023-02-04",
+          "field": {
+            "fieldName": "Tin học"
+          },
+          "place": "Trường đại học GTVT",
+          "id": "3e825244-3770-4c5d-8c4c-8e630b8d00f4"
+        }
+      ],
+      "listRelationship": [],
+      "education": [
+        ""
+      ],
+      "experience": [
+        ""
+      ],
+      "generalIntroduction": [
+        ""
+      ],
+      "careerGoals": [
+        ""
+      ],
+      "skill": [
+        ""
+      ],
+      "hobby": [
+        ""
+      ],
+      "status": "Đã duyệt",
+      "id": "070723a5-2fcd-44ea-a39a-e8ecc414d11f"
+    },
+    {
+      "fullName": "Phan Q",
+      "code": "3003383",
+      "phone": "0329927424",
+      "email": "phanq@gmail.com",
+      "address": "Ha Nam Viet Nam",
+      "identityCode": "1234567890",
+      "placeIssue": {
+        "place": "Cục Cảnh sát DKQL cư trú và DLQG về dân cư"
+      },
+      "ethnic": "Kinh",
+      "religion": "Không",
+      "salary": "1111",
+      "birthplace": "An Nội Bình lục hà nam",
+      "district": {
+        "name": "Hải Phòng"
+      },
+      "province": {
+        "name": "Kiến An"
+      },
+      "commune": {
+        "name": "c"
+      },
+      "gender": "Nam",
+      "position": "Thực tập sinh",
+      "team": "Back-End",
+      "birthday": "2000-02-04",
+      "dateIssue": "2023-02-04",
+      "image": "/assets/images/illustrations/dreamer.svg",
+      "listDiploma": [],
+      "listRelationship": [],
+      "education": [
+        ""
+      ],
+      "experience": [
+        ""
+      ],
+      "generalIntroduction": [
+        ""
+      ],
+      "careerGoals": [
+        ""
+      ],
+      "skill": [
+        ""
+      ],
+      "hobby": [
+        ""
+      ],
+      "status": "Kết thúc",
+      "id": "1d76c18f-8e57-45b0-af47-7b23e1c1b04c",
+      "sendLeader": {
+        "name": "Phan M",
+        "date": "2023-02-04",
+        "position": "Thực tập sinh",
+        "content": "ooooooooooooooooo"
+      },
+      "tableData": {
+        "index": 1,
+        "id": "1d76c18f-8e57-45b0-af47-7b23e1c1b04c",
+        "uuid": "eed7b6f0-c9ce-4693-bbb4-43d39fa477e9"
+      },
+      "acceptInfo": {
+        "date": "2023-02-12"
+      },
+      "releaseRequest": {
+        "reason": "oooooooooooooooooooooooooooooo",
+        "date": "2023-02-12"
+      }
+    },
+    {
+      "fullName": "Phan N",
+      "code": "3003383",
+      "phone": "0329927424",
+      "email": "phann@gmail.com",
+      "address": "Ha Nam Viet Nam",
+      "identityCode": "1234567890",
+      "placeIssue": {
+        "place": "Cục cảnh sát quản lý hành chính về trật tự xã hội"
+      },
+      "ethnic": "Kinh",
+      "religion": "Không",
+      "salary": "1111",
+      "birthplace": "An Nội Bình lục hà nam",
+      "district": {
+        "name": "Hải Dương"
+      },
+      "province": {
+        "name": "Kim Thành"
+      },
+      "commune": {
+        "name": "d"
+      },
+      "gender": "Nam",
+      "position": "Thực tập sinh",
+      "team": "Front-End",
+      "birthday": "2003-02-03",
+      "dateIssue": "2023-02-11",
+      "image": "/assets/images/illustrations/dreamer.svg",
+      "listDiploma": [],
+      "listRelationship": [],
+      "education": [
+        ""
+      ],
+      "experience": [
+        ""
+      ],
+      "generalIntroduction": [
+        ""
+      ],
+      "careerGoals": [
+        ""
+      ],
+      "skill": [
+        ""
+      ],
+      "hobby": [
+        ""
+      ],
+      "status": "Lưu mới",
+      "id": "b1d8b65a-95b2-45e6-9478-72d06e8b0def",
+      "createdAt": 1676945589021
+    }
+  ]
+}
